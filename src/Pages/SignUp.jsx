@@ -104,7 +104,7 @@ export const SignUp = () => {
                 </form>
                 <div className="login-link">
                     <span>Already have an account? </span>
-                    <Link to="/login" className="link">Sign In</Link>
+                    <Link to="/" className="link">Sign In</Link>
                 </div>
             </div>
         </div>
